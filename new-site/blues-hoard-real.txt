@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<title>Blue's Hoard</title>
+	</head>
+	<body>
+		<!-- header includes site logo, navigation, and banner (with various other images that may show) -->
+		<header>
+			<nav>
+				<img src="/images/dragonwithoutlogo.png" alt="Blue's Logo"/>				
+				<a href="placeholderyahaha.html"><h1>Home</h1></a>
+				<a href="placeholderyahaha.html"><h1>Gallery</h1></a>
+				<a href="placeholderyahaha.html"><h1>Shop</h1></a>
+				<a href="placeholderyahaha.html"><h1>Info</h1></a>
+			</nav>
+		<img src="C:\Users\abiga\OneDrive\Pictures\Screenshots\Screenshot 2024-09-23 111031.png" alt="Artfight 2024"
+		width="1500"
+		height="900"/>
+		<a href="placeholderyahaha.html"><h1>Commission Me!</h1></a>
+		</header>
+		<!-- Main includes two sections, one for shopping, one for info -->
+		<main>
+				<h2>New Releases</h2>
+			<section>
+				<img src="C:\Users\abiga\Downloads\Image_20240923_215756_966.png" alt="Blue's Main Logo" 
+				width="300" 
+				height="300"/>
+			</section>
+			<section>
+				<img src="/images/bule.png" alt="Me!"
+				width="250"
+				height="250"/>
+				<p>
+				Hello and welcome to my space! Here is where I sell merchandise for the media I love, show off art,
+				and possibly gain some commissions. I have several interests and most of what I'm selling is based
+				on said interest! Most prominently would be Genshin Impact, various JRPGs, and shows. Hope you enjoy it!
+				</p>
+			</section>
+		</main>
+		<!-- Footer includes "Get Updated" email signup and socials to other sites -->
+		<footer>
+		<h3>Get Updated!</h3>
+		<h3><strong>Subscribe</strong></h3>
+		<h3>Socials!</h3>
+			<a href="placeholderyahaha.html"><img src="images\insta.png" alt="Instagram"
+			width="50"
+			height="50"/></a>
+			<a href="placeholderyahaha.html"><img src="C:\Users\abiga\OneDrive\Documents\new-site\images\tiktok.png.png" alt="TikTok"
+			width="50"
+			height="50"/></a>
+			<a href="placeholderyahaha.html"><img src="C:\Users\abiga\Downloads\tumblr.png" alt="Tumblr"
+			width="50"
+			height="50"/></a>
+			<a href="placeholderyahaha.html"><img src="C:\Users\abiga\Downloads\Twitter_new_X_logo.png" alt="Twitter"
+			width="50"
+			height="50"/></a>
+
+		</footer>
+	</body>
+</html>
